@@ -1,0 +1,103 @@
+h3{
+    color: red;
+    text-align: right;
+}
+button{
+    color: white;
+    background-color: chocolate;
+}
+body{
+    background-color: darkkhaki;
+}
+#one{
+    text-align: right;
+}
+h2{
+    text-decoration:  red underline;
+    text-align: center;
+}
+#id101{
+    font-weight: 100;
+}
+#id104{
+    font-weight: 100;
+}
+#two{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#size{
+    font-size: 20px;
+}
+#height{
+    line-height: 50px;
+}
+#case{
+    text-transform: uppercase;
+    line-height: 30px;
+    margin: 50px;
+}
+#id105{
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    padding-left: 100px;
+    padding-top: 100px;
+    /* padding-bottom: 100px;
+    padding-right: 100px; */
+    margin: 50px;
+}
+/* body{
+    text-align: center;
+}
+div{
+   
+    display:inline-block;
+    border: 2px solid black;
+}
+.container{
+    height: 200px;
+    width: 800px;
+}
+#idbox1{
+    height: 100px;
+    width: 100px;
+       background-color: antiquewhite;
+}
+#idbox2{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+#idbox3{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+
+}
+#idbox4{
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+}
+#idbox5{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+} */
+ #outer{
+    height: 600px;
+    width: 600px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ #inner{
+    height: 200px;
+    width: 200px;
+    background-color: chartreuse;
+ }
